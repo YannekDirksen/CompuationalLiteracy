@@ -186,6 +186,13 @@ These limitations are acknowledged and discussed in the analysis.
 
 ## Reproducibility
 
+To reproduce the analysis, clone the repository and install the required
+dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 To run the full pipeline:
 
 ```bash
