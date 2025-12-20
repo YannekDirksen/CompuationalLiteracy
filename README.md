@@ -192,9 +192,14 @@ dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+This project relies on the spaCy English model en_core_web_sm.
+If the model is not installed, install it with:
+
+```bash
+python -m spacy download en_core_web_sm
+```
 
 To run the full pipeline:
-
 ```bash
 python code/01_preprocess.py
 python code/02_detect_lexicon_hits.py
