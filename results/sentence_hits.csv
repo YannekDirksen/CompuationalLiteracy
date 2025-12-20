@@ -815,7 +815,7 @@ danger?",0,0,1,,,good,1
 258,"Because I am beginning to grow old, and had rather lie at my
 ease by the fire than run about the house after the mice, my mistress
 laid hold of me, and was going to drown me; and though I have been lucky
-enough to get away from her, I do not know what I am to live upon.’",1,2,0,lie,fire drown,,1
+enough to get away from her, I do not know what I am to live upon.’",1,1,0,lie,drown,,1
 259,"‘Oh,’ said the ass, ‘by all means go with us to the great city; you are
 a good night singer, and may make your fortune as a musician.’",0,0,1,,,good,1
 260,"The cat
@@ -1014,16 +1014,16 @@ himself, and had promised to be good friends again with old Sultan.",0,2,1,,suff
 In a village dwelt a poor old woman, who had gathered together a dish
 of beans and wanted to cook them.",0,0,0,,,,0
 317,"So she made a fire on her hearth, and
-that it might burn the quicker, she lighted it with a handful of straw.",0,2,0,,fire burn,,1
+that it might burn the quicker, she lighted it with a handful of straw.",0,1,0,,burn,,1
 318,"When she was emptying the beans into the pan, one dropped without her
 observing it, and lay on the ground beside a straw, and soon afterwards
-a burning coal from the fire leapt down to the two.",1,2,0,lie,burn fire,,1
+a burning coal from the fire leapt down to the two.",1,1,0,lie,burn,,1
 319,"Then the straw
 began and said: ‘Dear friends, from whence do you come here?’",0,0,0,,,,0
 320,"The coal
 replied: ‘I fortunately sprang out of the fire, and if I had not escaped
 by sheer force, my death would have been certain,--I should have been
-burnt to ashes.’",0,3,0,,fire death burn,,1
+burnt to ashes.’",0,2,0,,death burn,,1
 321,"The bean said: ‘I too have escaped with a whole skin,
 but if the old woman had got me into the pan, I should have been made
 into broth without any mercy, like my comrades.’",0,0,0,,,,0
@@ -1031,7 +1031,7 @@ into broth without any mercy, like my comrades.’",0,0,0,,,,0
 fate have fallen to my lot?’ said the straw.",0,0,0,,,,0
 323,"‘The old woman has
 destroyed all my brethren in fire and smoke; she seized sixty of them at
-once, and took their lives.",1,1,0,seize,fire,,1
+once, and took their lives.",1,0,0,seize,,,1
 324,I luckily slipped through her fingers.’,0,0,0,,,,0
 325,‘But what are we to do now?’ said the coal.,0,0,0,,,,0
 326,"‘I think,’ answered the bean, ‘that as we have so fortunately escaped
@@ -1157,7 +1157,7 @@ goose upon it for the king’s dinner stood still; and the cook, who was
 at that moment pulling the kitchen-boy by the hair to give him a box
 on the ear for something he had done amiss, let him go, and both fell
 asleep; the butler, who was slyly tasting the ale, fell asleep with the
-jug at his lips: and thus everything stood still, and slept soundly.",0,1,0,,fire,,1
+jug at his lips: and thus everything stood still, and slept soundly.",0,0,0,,,,0
 364,"A large hedge of thorns soon grew round the palace, and every year it
 became higher and thicker; till at last the old palace was surrounded
 and hidden, so that not even the roof or the chimneys could be seen.",0,0,0,,,,0
@@ -1208,7 +1208,7 @@ flew into the fields; the flies on the walls buzzed again; the fire in
 the kitchen blazed up; round went the jack, and round went the spit,
 with the goose for the king’s dinner upon it; the butler finished his
 draught of ale; the maid went on plucking the fowl; and the cook gave
-the boy the box on his ear.",0,1,0,,fire,,1
+the boy the box on his ear.",0,0,0,,,,0
 378,"And then the prince and Briar Rose were married, and the wedding feast
 was given; and they lived happily together all their lives long.",0,0,1,,,marry,1
 379,"THE DOG AND THE SPARROW
@@ -2496,7 +2496,7 @@ close by the inn, soon swam out of their reach.",0,0,0,,,,0
 854,"An hour or two afterwards the landlord got up, and took his handkerchief
 to wipe his face, but the pin ran into him and pricked him: then he
 walked into the kitchen to light his pipe at the fire, but when he
-stirred it up the eggshells flew into his eyes, and almost blinded him.",0,1,0,,fire,,1
+stirred it up the eggshells flew into his eyes, and almost blinded him.",0,0,0,,,,0
 855,"‘Bless me!’ said he, ‘all the world seems to have a design against my
 head this morning’: and so saying, he threw himself sulkily into his
 easy chair; but, oh dear!",0,0,1,,,bless,1
@@ -2541,7 +2541,7 @@ up in the towel.",0,0,0,,,,0
 the cat threw all the ashes in his eyes: so he ran to the kitchen to
 wash himself; but there the duck splashed all the water in his face; and
 when he tried to wipe himself, the egg broke to pieces in the towel all
-over his face and eyes.",0,1,0,,fire,,1
+over his face and eyes.",0,0,0,,,,0
 868,"Then he was very angry, and went without his
 supper to bed; but when he laid his head on the pillow, the pin ran into
 his cheek: at this he became quite furious, and, jumping up, would have
@@ -3047,7 +3047,7 @@ cavern and spend the night with us.’",0,0,0,,,,0
 followed him.",0,0,0,,,,0
 1057,"When they went into the cave, other giants were sitting
 there by the fire, and each of them had a roasted sheep in his hand and
-was eating it.",1,1,0,eat,fire,,1
+was eating it.",1,0,0,eat,,,1
 1058,"The little tailor looked round and thought: ‘It is much
 more spacious here than in my workshop.’",0,0,0,,,,0
 1059,"The giant showed him a bed, and
@@ -3300,7 +3300,7 @@ ourselves?’",0,0,0,,,,0
 tomorrow morning we will take the children out into the forest to where
 it is the thickest; there we will light a fire for them, and give each
 of them one more piece of bread, and then we will go to our work and
-leave them alone.",0,1,0,,fire,,1
+leave them alone.",0,0,0,,,,0
 1153,"They will not find the way home again, and we shall be
 rid of them.’",0,0,0,,,,0
 1154,"‘No, wife,’ said the man, ‘I will not do that; how can I
@@ -3356,17 +3356,17 @@ the cat, but had been constantly throwing one of the white pebble-stones
 out of his pocket on the road.",0,0,0,,,,0
 1175,"When they had reached the middle of the forest, the father said: ‘Now,
 children, pile up some wood, and I will light a fire that you may not
-be cold.’",0,1,0,,fire,,1
+be cold.’",0,0,0,,,,0
 1176,"Hansel and Gretel gathered brushwood together, as high as a
 little hill.",0,0,0,,,,0
 1177,"The brushwood was lighted, and when the flames were burning
 very high, the woman said: ‘Now, children, lay yourselves down by the
-fire and rest, we will go into the forest and cut some wood.",1,2,0,lie,burn fire,,1
+fire and rest, we will go into the forest and cut some wood.",1,1,0,lie,burn,,1
 1178,"When we
 have done, we will come back and fetch you away.’",0,0,0,,,,0
 1179,"Hansel and Gretel sat by the fire, and when noon came, each ate a little
 piece of bread, and as they heard the strokes of the wood-axe they
-believed that their father was near.",1,1,0,eat,fire,,1
+believed that their father was near.",1,0,0,eat,,,1
 1180,"It was not the axe, however, but
 a branch which he had fastened to a withered tree which the wind was
 blowing backwards and forwards.",0,0,0,,,,0
@@ -3432,7 +3432,7 @@ never in their lives been before.",0,0,0,,,,0
 1205,"Then a great fire was again made, and
 the mother said: ‘Just sit there, you children, and when you are tired
 you may sleep a little; we are going into the forest to cut wood, and in
-the evening when we are done, we will come and fetch you away.’",0,1,0,,fire,,1
+the evening when we are done, we will come and fetch you away.’",0,0,0,,,,0
 1206,"When
 it was noon, Gretel shared her piece of bread with Hansel, who had
 scattered his by the way.",0,0,0,,,,0
@@ -3558,11 +3558,11 @@ at any rate have died together.’",1,1,0,devour,die,,1
 1251,"‘Just keep your noise to yourself,’
 said the old woman, ‘it won’t help you at all.’",0,0,0,,,,0
 1252,"Early in the morning, Gretel had to go out and hang up the cauldron with
-the water, and light the fire.",0,2,0,,hang fire,,1
+the water, and light the fire.",0,1,0,,hang,,1
 1253,"‘We will bake first,’ said the old woman,
 ‘I have already heated the oven, and kneaded the dough.’",0,0,0,,,,0
 1254,"She pushed poor
-Gretel out to the oven, from which flames of fire were already darting.",1,1,0,push,fire,,1
+Gretel out to the oven, from which flames of fire were already darting.",1,0,0,push,,,1
 1255,"‘Creep in,’ said the witch, ‘and see if it is properly heated, so that
 we can put the bread in.’",0,0,0,,,,0
 1256,"And once Gretel was inside, she intended to
@@ -3650,7 +3650,7 @@ poor simpleton, who did all the hard work, while the other two stayed
 at home and had a good time of it.",0,0,1,,,good,1
 1290,"For, when the mouse had made the fire
 and fetched in the water, she could retire into her little room and rest
-until it was time to set the table.",0,1,0,,fire,,1
+until it was time to set the table.",0,0,0,,,,0
 1291,"The sausage had only to watch the
 pot to see that the food was properly cooked, and when it was near
 dinner-time, he just threw himself into the broth, or rolled in and out
@@ -3673,7 +3673,7 @@ to cook, and to the bird to fetch the water.",0,0,0,,,,0
 1296,And now what happened?,0,0,0,,,,0
 1297,"The sausage started in search of wood, the bird
 made the fire, and the mouse put on the pot, and then these two waited
-till the sausage returned with the fuel for the following day.",0,1,0,,fire,,1
+till the sausage returned with the fuel for the following day.",0,0,0,,,,0
 1298,"But the
 sausage remained so long away, that they became uneasy, and the bird
 flew out to meet him.",0,0,0,,,,0
@@ -3699,7 +3699,7 @@ could nowhere see the cook.",0,0,0,,,,0
 here and there about the floor, called and searched, but no cook was to
 be found.",0,0,0,,,,0
 1306,"Then some of the wood that had been carelessly thrown down,
-caught fire and began to blaze.",0,1,0,,fire,,1
+caught fire and began to blaze.",0,0,0,,,,0
 1307,"The bird hastened to fetch some water,
 but his pail fell into the well, and he after it, and as he was unable
 to recover himself, he was drowned.",0,1,0,,drown,,1
@@ -3958,7 +3958,7 @@ here, you old sinner!’ said he.",0,0,0,,,,0
 he was going to fire at him, it occurred to him that the wolf might have
 devoured the grandmother, and that she might still be saved, so he did
 not fire, but took a pair of scissors, and began to cut open the stomach
-of the sleeping wolf.",1,1,1,devour,fire,save,1
+of the sleeping wolf.",1,0,1,devour,,save,1
 1403,"When he had made two snips, he saw the little
 Red-Cap shining, and then he made two snips more, and the little girl
 sprang out, crying: ‘Ah, how frightened I have been!",0,0,0,,,,0
@@ -4073,7 +4073,7 @@ come to!",0,0,0,,,,0
 and that your marriage will soon take place, but it is with death that
 you will keep your marriage feast.",0,1,2,,death,marriage marriage,1
 1441,"Look, do you see that large cauldron
-of water which I am obliged to keep on the fire!",0,1,0,,fire,,1
+of water which I am obliged to keep on the fire!",0,0,0,,,,0
 1442,"As soon as they have
 you in their power they will kill you without mercy, and cook and eat
 you, for they are eaters of men.",2,1,0,kill eat,kill,,1
@@ -4567,7 +4567,7 @@ and the hare bid each other good night, I saw a little hut; and before
 the hut burnt a fire; and round about the fire a funny little dwarf was
 dancing upon one leg, and singing:
 
- “Merrily the feast I’ll make.",0,3,1,,burn fire fire,good,1
+ “Merrily the feast I’ll make.",0,1,1,,burn,good,1
 1630,"Today I’ll brew, tomorrow bake;
   Merrily I’ll dance and sing,
   For next day will a stranger bring.",0,0,0,,,,0
@@ -4619,26 +4619,26 @@ guest coming this evening; prepare me two fowls very daintily.’",0,0,0,,,,0
 see to it, master,’ answered Gretel.",0,0,0,,,,0
 1646,"She killed two fowls, scalded them,
 plucked them, put them on the spit, and towards evening set them before
-the fire, that they might roast.",1,2,0,kill,kill fire,,1
+the fire, that they might roast.",1,1,0,kill,kill,,1
 1647,"The fowls began to turn brown, and were
 nearly ready, but the guest had not yet arrived.",0,0,0,,,,0
 1648,"Then Gretel called out
 to her master: ‘If the guest does not come, I must take the fowls away
 from the fire, but it will be a sin and a shame if they are not eaten
-the moment they are at their juiciest.’",2,2,0,sin eat,fire shame,,1
+the moment they are at their juiciest.’",2,1,0,sin eat,shame,,1
 1649,"The master said: ‘I will run
 myself, and fetch the guest.’",0,0,0,,,,0
 1650,"When the master had turned his back,
 Gretel laid the spit with the fowls on one side, and thought: ‘Standing
 so long by the fire there, makes one sweat and thirsty; who knows
-when they will come?",0,1,0,,fire,,1
+when they will come?",0,0,0,,,,0
 1651,"Meanwhile, I will run into the cellar, and take a
 drink.’",0,0,0,,,,0
 1652,"She ran down, set a jug, said: ‘God bless it for you, Gretel,’
 and took a good drink, and thought that wine should flow on, and should
 not be interrupted, and took yet another hearty draught.",0,0,2,,,bless good,1
 1653,"Then she went and put the fowls down again to the fire, basted them,
-and drove the spit merrily round.",0,2,0,,fire drive,,1
+and drove the spit merrily round.",0,1,0,,drive,,1
 1654,"But as the roast meat smelt so good,
 Gretel thought: ‘Something might be wrong, it ought to be tasted!’",0,0,1,,,good,1
 1655,"She touched it with her finger, and said: ‘Ah!",0,0,0,,,,0
@@ -4709,7 +4709,7 @@ that the guest should leave him just one chicken, and not take both.",0,0,0,,,,0
 1684,"The
 guest, however, thought no otherwise than that he was to give up one of
 his ears, and ran as if fire were burning under him, in order to take
-them both with him.",0,2,0,,fire burn,,1
+them both with him.",0,1,0,,burn,,1
 1685,"THE OLD MAN AND HIS GRANDSON
 
 
@@ -5003,13 +5003,13 @@ hungry",0,0,0,,,,0
 1798,"‘Very well,’ said she, ‘it shall all be ready.’",0,0,0,,,,0
 1799,"When dinner-time drew
 nigh, Catherine took a nice steak, which was all the meat she had, and
-put it on the fire to fry.",0,1,0,,fire,,1
+put it on the fire to fry.",0,0,0,,,,0
 1800,"The steak soon began to look brown, and to
 crackle in the pan; and Catherine stood by with a fork and turned it:
 then she said to herself, ‘The steak is almost ready, I may as well go
 to the cellar for the ale.’",0,0,0,,,,0
 1801,"So she left the pan on the fire and took a
-large jug and went into the cellar and tapped the ale cask.",0,1,0,,fire,,1
+large jug and went into the cellar and tapped the ale cask.",0,0,0,,,,0
 1802,"The beer ran
 into the jug and Catherine stood looking on.",0,0,0,,,,0
 1803,"At last it popped into her
@@ -5168,7 +5168,7 @@ were looking for.",0,0,0,,,,0
 1865,"They were in truth great rascals, and belonged to that
 class of people who find things before they are lost; they were tired;
 so they sat down and made a fire under the very tree where Frederick and
-Catherine were.",0,1,0,,fire,,1
+Catherine were.",0,0,0,,,,0
 1866,"Frederick slipped down on the other side, and picked up
 some stones.",0,0,0,,,,0
 1867,"Then he climbed up again, and tried to hit the thieves on
@@ -5325,7 +5325,7 @@ in the shepherd’s house.",0,0,0,,,,0
 1924,"When he arose in the morning, all the work was
 already done, the room was swept, the table and benches cleaned, the
 fire in the hearth was lighted, and the water was fetched, and at noon,
-when he came home, the table was laid, and a good dinner served.",0,1,1,,fire,good,1
+when he came home, the table was laid, and a good dinner served.",0,0,1,,,good,1
 1925,"He
 could not conceive how this came to pass, for he never saw a human being
 in his house, and no one could have concealed himself in it.",0,0,0,,,,0
@@ -6129,7 +6129,7 @@ away with the kitchen-maid!’",1,0,0,eat,,,1
 gave her an old grey frock to put on, and laughed at her, and turned her
 into the kitchen.",0,0,0,,,,0
 2207,"There she was forced to do hard work; to rise early before daylight, to
-bring the water, to make the fire, to cook and to wash.",1,1,0,force,fire,,1
+bring the water, to make the fire, to cook and to wash.",1,0,0,force,,,1
 2208,"Besides that,
 the sisters plagued her in all sorts of ways, and laughed at her.",0,0,0,,,,0
 2209,"In the
@@ -6718,7 +6718,7 @@ dwarf said, ‘Let the poor things enjoy themselves, you shall not kill
 them.’",1,1,0,kill,kill,,1
 2425,"Next they came to a bees’-nest in a hollow tree, and there was
 so much honey that it ran down the trunk; and the two brothers wanted to
-light a fire under the tree and kill the bees, so as to get their honey.",1,2,0,kill,fire kill,,1
+light a fire under the tree and kill the bees, so as to get their honey.",1,1,0,kill,kill,,1
 2426,"But the dwarf held them back, and said, ‘Let the pretty insects enjoy
 themselves, I cannot let you burn them.’",0,1,0,,burn,,1
 2427,"At length the three brothers came to a castle: and as they passed by the
@@ -6769,7 +6769,7 @@ so he was to guess which it was that had eaten the honey.",2,0,0,eat eat,,,1
 2442,"Then came the queen of the bees, who had been saved by the little dwarf
 from the fire, and she tried the lips of all three; but at last she sat
 upon the lips of the one that had eaten the honey: and so the dwarf knew
-which was the youngest.",1,1,1,eat,fire,save,1
+which was the youngest.",1,0,1,eat,,save,1
 2443,"Thus the spell was broken, and all who had been
 turned into stones awoke, and took their proper forms.",0,0,0,,,,0
 2444,"And the dwarf
@@ -6810,7 +6810,7 @@ the good man soon became thriving and well off again.",0,0,1,,,good,1
 2455,"One evening, about Christmas-time, as he and his wife were sitting over
 the fire chatting together, he said to her, ‘I should like to sit up and
 watch tonight, that we may see who it is that comes and does my work for
-me.’",0,1,0,,fire,,1
+me.’",0,0,0,,,,0
 2456,"The wife liked the thought; so they left a light burning, and hid
 themselves in a corner of the room, behind a curtain that was hung up
 there, and watched what would happen.",0,1,0,,hang,,1
@@ -6946,7 +6946,7 @@ and when I asked him to give me the apple, he did not answer, and that
 frightened me.’
 
 ‘Go to him again,’ said her mother, ‘and if he does not answer, give him
-a box on the ear.’",0,1,0,,fire,,1
+a box on the ear.’",0,0,0,,,,0
 2505,"So little Marleen went, and said, ‘Brother, give me
 that apple,’ but he did not say a word; then she gave him a box on the
 ear, and his head rolled off.",0,0,0,,,,0
@@ -6997,7 +6997,7 @@ joy.",0,0,0,,,,0
 was a burning as of fire, and out of the fire there flew a beautiful
 bird, that rose high into the air, singing magnificently, and when it
 could no more be seen, the juniper-tree stood there as before, and the
-silk handkerchief and the bones were gone.",0,2,0,,fire fire,,1
+silk handkerchief and the bones were gone.",0,0,0,,,,0
 2525,"Little Marleen now felt as lighthearted and happy as if her brother were
 still alive, and she went back to the house and sat down cheerfully to
 the table and ate.",1,0,1,eat,,happy,1
@@ -7151,7 +7151,7 @@ shines; I feel just as if I were going to see an old friend again.’",0,0,1,,,h
 2567,"‘Ah!’ said the wife, ‘and I am so full of distress and uneasiness that
 my teeth chatter, and I feel as if there were a fire in my veins,’ and
 she tore open her dress; and all the while little Marleen sat in the
-corner and wept, and the plate on her knees was wet with her tears.",0,2,0,,fire weep,,1
+corner and wept, and the plate on her knees was wet with her tears.",0,1,0,,weep,,1
 2568,"The bird now flew to the juniper-tree and began singing:
 
  ‘My mother killed her little son;
@@ -7211,7 +7211,7 @@ danced and jumped about in them.",0,0,1,,,happy,1
 came out, but that has all passed away; that is indeed a splendid bird,
 and he has given me a pair of red shoes.’",0,0,0,,,,0
 2586,"The wife sprang up, with her hair standing out from her head like flames
-of fire.",0,1,0,,fire,,1
+of fire.",0,0,0,,,,0
 2587,"‘Then I will go out too,’ she said, ‘and see if it will lighten
 my misery, for I feel as if the world were coming to an end.’",0,0,0,,,,0
 2588,"But as she crossed the threshold, crash!",0,0,0,,,,0
@@ -7221,7 +7221,7 @@ down on her head, and she was crushed to death.",0,1,0,,death,,1
 saw mist and flame and fire rising from the spot, and when these had
 passed, there stood the little brother, and he took the father and
 little Marleen by the hand; then they all three rejoiced, and went
-inside together and sat down to their dinners and ate.",1,1,0,eat,fire,,1
+inside together and sat down to their dinners and ate.",1,0,0,eat,,,1
 2591,"THE TURNIP
 
 
@@ -9662,7 +9662,7 @@ his wife was not faithful to him, and wished to put her to the test.",0,0,0,,,,0
 stretched himself out under the bench, did not move a limb, and behaved
 as if he were stone dead.",0,1,0,,dead,,1
 3526,"Mrs Fox went up to her room, shut herself in,
-and her maid, Miss Cat, sat by the fire, and did the cooking.",0,1,0,,fire,,1
+and her maid, Miss Cat, sat by the fire, and did the cooking.",0,0,0,,,,0
 3527,"When it
 became known that the old fox was dead, suitors presented themselves.",0,1,0,,dead,,1
 3528,"The maid heard someone standing at the house-door, knocking.",0,0,0,,,,0
@@ -10018,7 +10018,7 @@ shudder!’",1,0,0,force,,,1
 3639,for he was afraid.,0,0,0,,,,0
 3640,"Or when stories were told by the fire at
 night which made the flesh creep, the listeners sometimes said: ‘Oh,
-it makes us shudder!’",0,1,0,,fire,,1
+it makes us shudder!’",0,0,0,,,,0
 3641,"The younger sat in a corner and listened with
 the rest of them, and could not imagine what they could mean.",0,0,0,,,,0
 3642,"‘They are
@@ -10153,17 +10153,17 @@ morning.’",0,0,0,,,,0
 waited till evening came.",0,0,0,,,,0
 3703,"And as he was cold, he lighted himself a fire,
 but at midnight the wind blew so sharply that in spite of his fire, he
-could not get warm.",0,2,0,,fire fire,,1
+could not get warm.",0,0,0,,,,0
 3704,"And as the wind knocked the hanged men against each
 other, and they moved backwards and forwards, he thought to himself:
 ‘If you shiver below by the fire, how those up above must freeze and
-suffer!’",0,3,0,,hang fire suffer,,1
+suffer!’",0,2,0,,hang suffer,,1
 3705,"And as he felt pity for them, he raised the ladder, and climbed
 up, unbound one of them after the other, and brought down all seven.",0,0,0,,,,0
 3706,"Then he stoked the fire, blew it, and set them all round it to warm
-themselves.",0,1,0,,fire,,1
+themselves.",0,0,0,,,,0
 3707,"But they sat there and did not stir, and the fire caught
-their clothes.",0,1,0,,fire,,1
+their clothes.",0,0,0,,,,0
 3708,"So he said: ‘Take care, or I will hang you up again.’",0,1,0,,hang,,1
 3709,"The
 dead men, however, did not hear, but were quite silent, and let their
@@ -10173,7 +10173,7 @@ take care, I cannot help you, I will not be burnt with you,’ and he hung
 them up again each in his turn.",0,2,0,,burn hang,,1
 3711,"Then he sat down by his fire and fell
 asleep, and the next morning the man came to him and wanted to have
-the fifty talers, and said: ‘Well do you know how to shudder?’",0,1,0,,fire,,1
+the fifty talers, and said: ‘Well do you know how to shudder?’",0,0,0,,,,0
 3712,"‘No,’
 answered he, ‘how should I know?",0,0,0,,,,0
 3713,"Those fellows up there did not open
@@ -10237,21 +10237,21 @@ willingly watch three nights in the haunted castle.’",0,0,0,,,,0
 ask for three things to take into the castle with you, but they must
 be things without life.’",0,0,0,,,,0
 3740,"Then he answered: ‘Then I ask for a fire, a
-turning lathe, and a cutting-board with the knife.’",0,1,0,,fire,,1
+turning lathe, and a cutting-board with the knife.’",0,0,0,,,,0
 3741,"The king had these things carried into the castle for him during the
 day.",0,0,0,,,,0
 3742,"When night was drawing near, the youth went up and made himself
 a bright fire in one of the rooms, placed the cutting-board and knife
-beside it, and seated himself by the turning-lathe.",0,1,0,,fire,,1
+beside it, and seated himself by the turning-lathe.",0,0,0,,,,0
 3743,"‘Ah, if I could
 but shudder!’ said he, ‘but I shall not learn it here either.’",0,0,0,,,,0
 3744,"Towards
 midnight he was about to poke his fire, and as he was blowing it,
-something cried suddenly from one corner: ‘Au, miau!",0,1,0,,fire,,1
+something cried suddenly from one corner: ‘Au, miau!",0,0,0,,,,0
 3745,how cold we are!’,0,0,0,,,,0
 3746,"‘You fools!’ cried he, ‘what are you crying about?",0,0,0,,,,0
 3747,"If you are cold, come
-and take a seat by the fire and warm yourselves.’",0,1,0,,fire,,1
+and take a seat by the fire and warm yourselves.’",0,0,0,,,,0
 3748,"And when he had said
 that, two great black cats came with one tremendous leap and sat down
 on each side of him, and looked savagely at him with their fiery
@@ -10275,14 +10275,14 @@ and was about to sit down again by his fire, out from every hole and
 corner came black cats and black dogs with red-hot chains, and more
 and more of them came until he could no longer move, and they yelled
 horribly, and got on his fire, pulled it to pieces, and tried to put
-it out.",0,2,0,,fire fire,,1
+it out.",0,0,0,,,,0
 3758,"He watched them for a while quietly, but at last when they were
 going too far, he seized his cutting-knife, and cried: ‘Away with you,
 vermin,’ and began to cut them down.",1,0,0,seize,,,1
 3759,"Some of them ran away, the others
 he killed, and threw out into the fish-pond.",1,1,0,kill,kill,,1
 3760,"When he came back he fanned
-the embers of his fire again and warmed himself.",0,1,0,,fire,,1
+the embers of his fire again and warmed himself.",0,0,0,,,,0
 3761,"And as he thus sat, his
 eyes would keep open no longer, and he felt a desire to sleep.",0,0,0,,,,0
 3762,"Then he
@@ -10299,7 +10299,7 @@ over thresholds and stairs, but suddenly hop, hop, it turned over upside
 down, and lay on him like a mountain.",1,0,0,lie,,,1
 3767,"But he threw quilts and pillows up
 in the air, got out and said: ‘Now anyone who likes, may drive,’ and
-lay down by his fire, and slept till it was day.",1,2,0,lie,drive fire,,1
+lay down by his fire, and slept till it was day.",1,1,0,lie,drive,,1
 3768,"In the morning the king
 came, and when he saw him lying there on the ground, he thought the evil
 spirits had killed him and he was dead.",3,2,0,lie evil kill,kill dead,,1
@@ -10319,7 +10319,7 @@ see you alive again!",0,0,0,,,,0
 ‘it is all in vain.",0,0,0,,,,0
 3776,If someone would but tell me!’,0,0,0,,,,0
 3777,"The second night he again went up into the old castle, sat down by the
-fire, and once more began his old song: ‘If I could but shudder!’",0,1,0,,fire,,1
+fire, and once more began his old song: ‘If I could but shudder!’",0,0,0,,,,0
 3778,"When
 midnight came, an uproar and noise of tumbling about was heard; at
 first it was low, but it grew louder and louder.",0,0,0,,,,0
@@ -10332,7 +10332,7 @@ to this.",0,0,0,,,,0
 3782,"Then the uproar began again, there was a
 roaring and howling, and the other half fell down likewise.",0,0,0,,,,0
 3783,"‘Wait,’ said
-he, ‘I will just stoke up the fire a little for you.’",0,1,0,,fire,,1
+he, ‘I will just stoke up the fire a little for you.’",0,0,0,,,,0
 3784,"When he had done
 that and looked round again, the two pieces were joined together, and a
 hideous man was sitting in his place.",0,0,0,,,,0
@@ -10382,10 +10382,10 @@ therein.",1,1,0,lie,dead,,1
 3807,"He felt his face, but it was cold as ice.",0,0,0,,,,0
 3808,"‘Wait,’ said he, ‘I
 will warm you a little,’ and went to the fire and warmed his hand and
-laid it on the dead man’s face, but he remained cold.",0,2,0,,fire dead,,1
+laid it on the dead man’s face, but he remained cold.",0,1,0,,dead,,1
 3809,"Then he took him
 out, and sat down by the fire and laid him on his breast and rubbed his
-arms that the blood might circulate again.",0,2,0,,fire blood,,1
+arms that the blood might circulate again.",0,1,0,,blood,,1
 3810,"As this also did no good, he
 thought to himself: ‘When two people lie in bed together, they warm each
 other,’ and carried him to the bed, covered him over and lay down by
@@ -10441,7 +10441,7 @@ poor, the other for the king, the third yours.’",0,0,0,,,,0
 struck twelve, and the spirit disappeared, so that the youth stood in
 darkness.",0,0,0,,,,0
 3839,"‘I shall still be able to find my way out,’ said he, and felt
-about, found the way into the room, and slept there by his fire.",0,1,0,,fire,,1
+about, found the way into the room, and slept there by his fire.",0,0,0,,,,0
 3840,"Next morning the king came and said: ‘Now you must have learnt what
 shuddering is?’",0,0,0,,,,0
 3841,"‘No,’ he answered; ‘what can it be?",0,0,0,,,,0
@@ -10562,10 +10562,10 @@ servants?’ cried she.",0,0,0,,,,0
 3890,"‘What do we want with servants?’ said he; ‘you
 must do for yourself whatever is to be done.",0,0,0,,,,0
 3891,"Now make the fire, and put
-on water and cook my supper, for I am very tired.’",0,1,0,,fire,,1
+on water and cook my supper, for I am very tired.’",0,0,0,,,,0
 3892,"But the princess knew
 nothing of making fires and cooking, and the fiddler was forced to help
-her.",1,1,0,force,fire,,1
+her.",1,0,0,force,,,1
 3893,"When they had eaten a very scanty meal they went to bed; but the
 fiddler called her up very early in the morning to clean the house.",1,0,0,eat,,,1
 3894,"Thus
@@ -11112,7 +11112,7 @@ no light of day ever peeped in, and said, ‘Cat-skin, you may lie and
 sleep there.’",1,0,0,lie,,,1
 4104,"And she was sent into the kitchen, and made to fetch wood
 and water, to blow the fire, pluck the poultry, pick the herbs, sift the
-ashes, and do all the dirty work.",0,1,0,,fire,,1
+ashes, and do all the dirty work.",0,0,0,,,,0
 4105,Thus Cat-skin lived for a long time very sorrowfully.,0,0,0,,,,0
 4106,"‘Ah! pretty
 princess!’ thought she, ‘what will now become of thee?’",0,0,0,,,,0
@@ -11288,7 +11288,7 @@ it was a pleasure to look inside it.",0,0,0,,,,0
 of the house, and every morning laid a wreath of flowers by her mother’s
 bed before she awoke, in which was a rose from each tree.",0,0,0,,,,0
 4165,"In the winter
-Snow-white lit the fire and hung the kettle on the hob.",0,2,0,,fire hang,,1
+Snow-white lit the fire and hung the kettle on the hob.",0,1,0,,hang,,1
 4166,"The kettle
 was of brass and shone like gold, so brightly was it polished.",0,0,0,,,,0
 4167,"In the
@@ -11314,7 +11314,7 @@ to speak and said: ‘Do not be afraid, I will do you no harm!",0,0,0,,,,0
 4174,"I am
 half-frozen, and only want to warm myself a little beside you.’",0,0,0,,,,0
 4175,"‘Poor bear,’ said the mother, ‘lie down by the fire, only take care that
-you do not burn your coat.’",1,2,0,lie,fire burn,,1
+you do not burn your coat.’",1,1,0,lie,burn,,1
 4176,"Then she cried: ‘Snow-white, Rose-red, come
 out, the bear will do you no harm, he means well.’",0,0,0,,,,0
 4177,"So they both came
@@ -11323,7 +11323,7 @@ of him.",0,0,0,,,,0
 4178,"The bear said: ‘Here, children, knock the snow out of my coat a
 little’; so they brought the broom and swept the bear’s hide clean;
 and he stretched himself by the fire and growled contentedly and
-comfortably.",0,1,0,,fire,,1
+comfortably.",0,0,0,,,,0
 4179,"It was not long before they grew quite at home, and played
 tricks with their clumsy guest.",0,0,0,,,,0
 4180,"They tugged his hair with their hands,
