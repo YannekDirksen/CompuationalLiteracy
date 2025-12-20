@@ -111,6 +111,66 @@ This suggests that morality in fairy tales is **narrative and sequential**, not 
 
 ---
 
+## Evaluation and Reliability
+
+To assess the reliability of the lexicon-based classification, a small manual
+precision evaluation was conducted. Sentence-level outputs are known to be
+particularly sensitive to overgeneration in narrative texts, making explicit
+evaluation necessary.
+
+### Sampling procedure
+
+Fifty sentences labeled as **transgression** and fifty sentences labeled as
+**punishment** were randomly sampled from `results/sentence_hits.csv` using the
+helper script `code/04_show_sentences_by_category.py`. The sentences were
+inspected in their narrative context.
+
+Each sentence was manually classified into one of three categories:
+
+- **Relevant**: clearly expresses a moral transgression or punishment
+- **Ambiguous**: potentially expresses a transgression or punishment, but
+  requires broader narrative context or interpretation
+- **Not relevant**: contains no moral transgression or punishment despite a
+  lexicon match
+
+This three-way distinction reflects the interpretive nature of moral meaning in
+folklore narratives.
+
+### Precision results
+
+| Category      | Relevant | Ambiguous | Not relevant | Strict precision | Lenient precision |
+|--------------|----------|-----------|--------------|------------------|-------------------|
+| Transgression | 24       | 5         | 21           | 48%              | 58%               |
+| Punishment    | 10       | 6         | 34           | 20%              | 32%               |
+
+Strict precision counts only **Relevant** cases as correct, while lenient
+precision additionally includes **Ambiguous** cases.
+
+### Interpretation
+
+The evaluation reveals a clear asymmetry between transgression and punishment.
+Transgressive acts in Grimm’s Fairy Tales are more frequently encoded through
+explicit actions such as theft, deception, or violence, leading to moderate
+sentence-level precision.
+
+Punishment, by contrast, is often expressed indirectly through grief, illness,
+shame, exile, or karmic and supernatural consequences. These forms of punishment
+are frequently distributed across multiple sentences or implied by narrative
+outcome rather than marked by explicit punitive verbs. As a result, sentence-level
+detection of punishment exhibits lower precision.
+
+Many false positives arise from high-frequency or semantically light lexical
+items (e.g. *eat*, *lie*, *die*), illustrating a key limitation of lexicon-based
+approaches. The results therefore suggest that moral meaning in Grimm’s Fairy
+Tales is primarily established at the discourse level rather than at the level
+of individual sentences.
+
+Overall, the lexicon-based pipeline should be understood as a method for
+identifying candidate passages for further qualitative analysis rather than as
+a definitive classifier of moral events.
+
+---
+
 ## Limitations and potential bias
 
 This project has several limitations:
@@ -126,8 +186,20 @@ These limitations are acknowledged and discussed in the analysis.
 
 ## Reproducibility
 
-To run the full pipeline:
+To reproduce the analysis, clone the repository and install the required
+dependencies:
 
+```bash
+pip install -r requirements.txt
+```
+This project relies on the spaCy English model en_core_web_sm.
+If the model is not installed, install it with:
+
+```bash
+python -m spacy download en_core_web_sm
+```
+
+To run the full pipeline:
 ```bash
 python code/01_preprocess.py
 python code/02_detect_lexicon_hits.py
