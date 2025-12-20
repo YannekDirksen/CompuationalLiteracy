@@ -1,3 +1,9 @@
 {
-  "verbs": ["take", "steal", "eat", "devour", "cook", "cut", "kill", "poison", "push", "seize", "force", "refuse", "throw", "lead"]
+  "verbs": [
+    "steal", "take", "seize",
+    "deceive", "trick", "lie",
+    "force", "threaten",
+    "harm", "kill", "poison", "push",
+    "betray", "disobey", "refuse"
+  ]
 }

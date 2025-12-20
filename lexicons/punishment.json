@@ -1,3 +1,8 @@
 {
-  "verbs": ["die", "fall", "cut", "eat", "burn", "drown", "hang", "tear", "choke", "turn", "bind", "throw"]
+  "verbs": [
+    "punish", "curse", "condemn",
+    "banish", "drive", "imprison", "lock",
+    "kill", "burn", "hang", "drown", "tear",
+    "die", "suffer", "weep", "repent"
+  ]
 }
