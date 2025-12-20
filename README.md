@@ -1,3 +1,5 @@
+https://doi.org/10.5281/zenodo.18001213
+
 # Morality, Transgression, and Punishment in Grimm’s Fairy Tales
 
 This project studies how **morality is expressed in Grimm’s fairy tales** using simple computational methods.
