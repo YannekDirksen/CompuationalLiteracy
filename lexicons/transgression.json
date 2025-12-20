@@ -1,9 +1,18 @@
 {
   "verbs": [
-    "steal", "take", "seize",
-    "deceive", "trick", "lie",
-    "force", "threaten",
-    "harm", "kill", "poison", "push",
-    "betray", "disobey", "refuse"
+    "sin","disobey","refuse","betray","deceive","lie",
+    "steal","seize","take",
+    "devour","gorge","eat",
+    "kill","poison","push","force"
+  ],
+  "nouns": [
+    "sin","crime","theft","deceit","betrayal",
+    "greed","envy","temptation","curse"
+  ],
+  "adjectives": [
+    "wicked","evil","greedy","jealous","cruel","forbidden"
+  ],
+  "adverbs": [
+    "eagerly","greedily","secretly"
   ]
 }

@@ -1,8 +1,18 @@
 {
   "verbs": [
-    "punish", "curse", "condemn",
-    "banish", "drive", "imprison", "lock",
-    "kill", "burn", "hang", "drown", "tear",
-    "die", "suffer", "weep", "repent"
+    "punish","curse","condemn",
+    "kill","hang","drown","burn","behead","strangle",
+    "banish","cast","drive","bind","imprison",
+    "suffer","weep","lament",
+    "die","perish","fall"
+  ],
+  "nouns": [
+    "punishment","curse","judgement","justice","revenge",
+    "death","blood","pain","suffering",
+    "grief","shame","tears",
+    "prison","fire","rope"
+  ],
+  "adjectives": [
+    "dead","ill","sick","cursed","punished","guilty","ashamed"
   ]
 }
