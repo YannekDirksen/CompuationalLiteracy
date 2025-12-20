@@ -352,7 +352,7 @@ you, if they find you in the kingdom.’",1,1,0,kill,kill,,1
 84,"So he dressed himself as a poor
 man, and came secretly to the king’s court, and was scarcely within the
 doors when the horse began to eat, and the bird to sing, and the princess
-left off weeping.",2,0,0,secretly eat,,,1
+left off weeping.",1,0,0,eat,,,1
 85,"Then he went to the king, and told him all his
 brothers’ roguery; and they were seized and punished, and he had the
 princess given to him again; and after the king’s death he was heir to
@@ -1118,7 +1118,7 @@ the friendly fairies, who had not yet given her gift, came forward, and
 said that the evil wish must be fulfilled, but that she could soften its
 mischief; so her gift was, that the king’s daughter, when the spindle
 wounded her, should not really die, but should only fall asleep for a
-hundred years.",1,1,0,evil,die,,1
+hundred years.",0,1,0,,die,,1
 352,"However, the king hoped still to save his dear child altogether from
 the threatened evil; so he ordered that all the spindles in the kingdom
 should be bought up and burnt.",0,1,1,,burn,save,1
@@ -1272,7 +1272,7 @@ carter, grumbling to himself, ‘You make it the worse for me, indeed!",0,0,0,,,
 401,"what can you do?’ cracked his whip, and drove his cart over the poor
 dog, so that the wheels crushed him to death.",0,2,0,,drive death,,1
 402,"‘There,’ cried the
-sparrow, ‘thou cruel villain, thou hast killed my friend the dog.",2,1,0,cruel kill,kill,,1
+sparrow, ‘thou cruel villain, thou hast killed my friend the dog.",1,1,0,kill,kill,,1
 403,"Now
 mind what I say.",0,0,0,,,,0
 404,"This deed of thine shall cost thee all thou art worth.’
@@ -1331,7 +1331,7 @@ dead.’",0,2,0,,ill dead,,1
 428,"‘Alas! husband,’ replied she, ‘and a wicked bird has come into
 the house, and has brought with her all the birds in the world, I am
 sure, and they have fallen upon our corn in the loft, and are eating it
-up at such a rate!’",2,0,0,wicked eat,,,1
+up at such a rate!’",1,0,0,eat,,,1
 429,"Away ran the husband upstairs, and saw thousands of
 birds sitting upon the floor eating up his corn, with the sparrow in the
 midst of them.",1,0,0,eat,,,1
@@ -1363,7 +1363,7 @@ touching the bird at all.",0,0,0,,,,0
 wife said, ‘Shall I kill her at once?’",1,1,0,kill,kill,,1
 441,"‘No,’ cried he, ‘that is letting
 her off too easily: she shall die a much more cruel death; I will eat
-her.’",2,2,0,cruel eat,die death,,1
+her.’",1,2,0,eat,die death,,1
 442,"But the sparrow began to flutter about, and stretch out her neck
 and cried, ‘Carter!",0,0,0,,,,0
 443,it shall cost thee thy life yet!’,0,0,0,,,,0
@@ -1425,7 +1425,7 @@ fine royal robes to be given him; and when the evening came he was led
 to the outer chamber.",0,0,0,,,,0
 461,"Just as he was going to lie down, the eldest of
 the princesses brought him a cup of wine; but the soldier threw it all
-away secretly, taking care not to drink a drop.",2,0,0,lie secretly,,,1
+away secretly, taking care not to drink a drop.",1,0,0,lie,,,1
 462,"Then he laid himself
 down on his bed, and in a little while began to snore very loud as if
 he was fast asleep.",0,0,0,,,,0
@@ -2027,7 +2027,7 @@ her plate, and sleep upon her bed for three nights.",1,0,0,eat,,,1
 689,"‘You,’ said the
 prince, ‘have broken his cruel charm, and now I have nothing to wish for
 but that you should go with me into my father’s kingdom, where I will
-marry you, and love you as long as you live.’",1,0,1,cruel,,marry,1
+marry you, and love you as long as you live.’",0,0,1,,,marry,1
 690,"The young princess, you may be sure, was not long in saying ‘Yes’ to
 all this; and as they spoke a gay coach drove up, with eight beautiful
 horses, decked with plumes of feathers and a golden harness; and behind
@@ -2121,7 +2121,7 @@ fur coat and long tail, and are filled with fancies, that’s because
 you do not go out in the daytime.’",0,0,0,,,,0
 723,"During the cat’s absence the mouse
 cleaned the house, and put it in order, but the greedy cat entirely
-emptied the pot of fat.",1,0,0,greedy,,,1
+emptied the pot of fat.",0,0,0,,,,0
 724,"‘When everything is eaten up one has some
 peace,’ said she to herself, and well filled and fat she did not return
 home till night.",1,0,1,eat,,peace,1
@@ -2647,7 +2647,7 @@ bring her some of the rampion yourself, let it cost what it will.’",0,1,0,,die
 905,"At twilight, he clambered down over the wall into the garden of the
 enchantress, hastily clutched a handful of rampion, and took it to his
 wife.",0,0,0,,,,0
-906,"She at once made herself a salad of it, and ate it greedily.",2,0,0,eat greedily,,,1
+906,"She at once made herself a salad of it, and ate it greedily.",1,0,0,eat,,,1
 907,"It
 tasted so good to her--so very good, that the next day she longed for it
 three times as much as before.",0,0,2,,,good good,1
@@ -2754,7 +2754,7 @@ window, and when the king’s son came and cried:
 941,she let the hair down.,0,0,0,,,,0
 942,"The king’s son ascended, but instead of finding
 his dearest Rapunzel, he found the enchantress, who gazed at him with
-wicked and venomous looks.",1,0,0,wicked,,,1
+wicked and venomous looks.",0,0,0,,,,0
 943,‘Aha!’,0,0,0,,,,0
 944,"she cried mockingly, ‘you would fetch
 your dearest, but the beautiful bird sits no longer singing in the nest;
@@ -3510,7 +3510,7 @@ beds were covered with clean white linen, and Hansel and Gretel lay down
 in them, and thought they were in heaven.",1,0,0,lie,,,1
 1232,"The old woman had only pretended to be so kind; she was in reality
 a wicked witch, who lay in wait for children, and had only built the
-little house of bread in order to entice them there.",2,0,0,wicked lie,,,1
+little house of bread in order to entice them there.",1,0,0,lie,,,1
 1233,"When a child fell
 into her power, she killed it, cooked and ate it, and that was a feast
 day with her.",2,1,0,kill eat,kill,,1
@@ -3533,7 +3533,7 @@ some water, and cook something good for your brother, he is in the
 stable outside, and is to be made fat.",0,0,1,,,good,1
 1240,"When he is fat, I will eat him.’",1,0,0,eat,,,1
 1241,"Gretel began to weep bitterly, but it was all in vain, for she was
-forced to do what the wicked witch commanded.",2,1,0,force wicked,weep,,1
+forced to do what the wicked witch commanded.",1,1,0,force,weep,,1
 1242,"And now the best food was cooked for poor Hansel, but Gretel got nothing
 but crab-shells.",0,0,1,,,good,1
 1243,"Every morning the woman crept to the little stable, and
@@ -3864,7 +3864,7 @@ her hand on it.",0,0,1,,,good,1
 and just as Little Red-Cap entered the wood, a wolf met her.",0,0,0,,,,0
 1366,"Red-Cap
 did not know what a wicked creature he was, and was not at all afraid of
-him.",1,0,0,wicked,,,1
+him.",0,0,0,,,,0
 1367,"‘Good day, Little Red-Cap,’ said he.",0,0,1,,,good,1
 1368,"‘Thank you kindly, wolf.’
 
@@ -3982,7 +3982,7 @@ path.",0,0,0,,,,0
 her way, and told her grandmother that she had met the wolf, and that he
 had said ‘good morning’ to her, but with such a wicked look in his eyes,
 that if they had not been on the public road she was certain he would
-have eaten her up.",2,0,1,wicked eat,,good,1
+have eaten her up.",1,0,1,eat,,good,1
 1410,"‘Well,’ said the grandmother, ‘we will shut the door,
 that he may not come in.’",0,0,0,,,,0
 1411,"Soon afterwards the wolf knocked, and cried:
@@ -4186,7 +4186,7 @@ assembled guests.",0,0,0,,,,0
 tried to escape, but the guests seized him and held him fast.",1,0,0,seize,,,1
 1483,"They
 delivered him up to justice, and he and all his murderous band were
-condemned to death for their wicked deeds.",1,3,0,wicked,justice condemn death,,1
+condemned to death for their wicked deeds.",0,3,0,,justice condemn death,,1
 1484,"TOM THUMB
 
 
@@ -4507,7 +4507,7 @@ and sat himself down to the wheel, and whistled and sang:
 the straw was all spun into gold.",0,0,0,,,,0
 1612,"When the king came and saw this, he was greatly astonished and pleased;
 but his heart grew still more greedy of gain, and he shut up the poor
-miller’s daughter again with a fresh task.",1,0,0,greedy,,,1
+miller’s daughter again with a fresh task.",0,0,0,,,,0
 1613,"Then she knew not what to do,
 and sat down once more to weep; but the dwarf soon opened the door, and
 said, ‘What will you give me to do your task?’",0,1,0,,weep,,1
@@ -5210,7 +5210,7 @@ there they found all their money safe and sound.",0,0,1,,,safe,1
 There was once upon a time a woman who was a real witch and had two
 daughters, one ugly and wicked, and this one she loved because she was
 her own daughter, and one beautiful and good, and this one she hated,
-because she was her stepdaughter.",1,0,1,wicked,,good,1
+because she was her stepdaughter.",0,0,1,,,good,1
 1882,"The stepdaughter once had a pretty
 apron, which the other fancied so much that she became envious, and
 told her mother that she must and would have that apron.",0,0,0,,,,0
@@ -5582,7 +5582,7 @@ said:
 
  ‘Thou, queen, art the fairest of all the fair.’",0,0,1,,,save,1
 2015,"And then her wicked heart was glad, and as happy as such a heart could
-be.",1,0,1,wicked,,happy,1
+be.",0,0,1,,,happy,1
 2016,"When evening came, and the dwarfs had gone home, they found Snowdrop
 lying on the ground: no breath came from her lips, and they were afraid
 that she was quite dead.",0,1,0,,dead,,1
@@ -5711,7 +5711,7 @@ to be killed, and took her heart and tongue, and laid them on a plate,
 and when she saw the old man coming, she said to the boy: ‘Lie down in
 your bed, and draw the clothes over you.’",2,1,0,kill lie,kill,,1
 2057,"Then the wicked wretch came in
-and said: ‘Where are the boy’s heart and tongue?’",1,0,0,wicked,,,1
+and said: ‘Where are the boy’s heart and tongue?’",0,0,0,,,,0
 2058,"The girl reached the
 plate to him, but the king’s son threw off the quilt, and said: ‘You old
 sinner, why did you want to kill me?",1,1,0,kill,kill,,1
@@ -6665,7 +6665,7 @@ down whole.",0,1,0,,suffer,,1
 and jumped like a tailor at his wedding.",0,0,0,,,,0
 2406,"The mother, however, said: ‘Now
 go and look for some big stones, and we will fill the wicked beast’s
-stomach with them while he is still asleep.’",1,0,0,wicked,,,1
+stomach with them while he is still asleep.’",0,0,0,,,,0
 2407,"Then the seven kids dragged
 the stones thither with all speed, and put as many of them into this
 stomach as they could get in; and the mother sewed him up again in the
@@ -6876,7 +6876,7 @@ heart leaped for joy, and she was so overcome with her happiness, that
 she fell on her knees.",0,0,1,,,happiness,1
 2477,"Presently the fruit became round and firm, and
 she was glad and at peace; but when they were fully ripe she picked the
-berries and ate eagerly of them, and then she grew sad and ill.",2,1,1,eat eagerly,ill,peace,1
+berries and ate eagerly of them, and then she grew sad and ill.",1,1,1,eat,ill,peace,1
 2478,"A little
 while later she called her husband, and said to him, weeping.",0,1,0,,weep,,1
 2479,"‘If I
@@ -6898,7 +6898,7 @@ at the boy, it pierced her heart to think that he would always stand in
 the way of her own child, and she was continually thinking how she could
 get the whole of the property for her.",0,0,0,,,,0
 2485,"This evil thought took possession
-of her more and more, and made her behave very unkindly to the boy.",1,0,0,evil,,,1
+of her more and more, and made her behave very unkindly to the boy.",0,0,0,,,,0
 2486,"She
 drove him from place to place with cuffings and buffetings, so that the
 poor child went about in fear, and had no peace from the time he left
@@ -6915,13 +6915,13 @@ comes out of school.’",0,0,0,,,,0
 2491,"Just then she looked out of the window and saw him coming, and it seemed
 as if an evil spirit entered into her, for she snatched the apple out
 of her little daughter’s hand, and said, ‘You shall not have one before
-your brother.’",1,0,0,evil,,,1
+your brother.’",0,0,0,,,,0
 2492,She threw the apple into the chest and shut it to.,0,0,0,,,,0
 2493,"The
 little boy now came in, and the evil spirit in the wife made her say
-kindly to him, ‘My son, will you have an apple?’",1,0,0,evil,,,1
+kindly to him, ‘My son, will you have an apple?’",0,0,0,,,,0
 2494,"but she gave him a
-wicked look.",1,0,0,wicked,,,1
+wicked look.",0,0,0,,,,0
 2495,"‘Mother,’ said the boy, ‘how dreadful you look!",0,0,0,,,,0
 2496,"Yes, give
 me an apple.’",0,0,0,,,,0
@@ -6930,7 +6930,7 @@ me an apple.’",0,0,0,,,,0
 with me,’ she said, and she lifted up the lid of the chest; ‘take one
 out for yourself.’",0,0,0,,,,0
 2499,"And as he bent over to do so, the evil spirit urged
-her, and crash!",1,0,0,evil,,,1
+her, and crash!",0,0,0,,,,0
 2500,"down went the lid, and off went the little boy’s head.",0,0,0,,,,0
 2501,Then she was overwhelmed with fear at the thought of what she had done.,0,0,0,,,,0
 2502,"‘If only I can prevent anyone knowing that I did it,’ she thought.",0,0,0,,,,0
@@ -7277,7 +7277,7 @@ give in return more valuable and wonderful than the great turnip; so
 the soldier was forced to put it into a cart, and drag it home with him.",1,0,0,force,,,1
 2610,"When he reached home, he knew not upon whom to vent his rage and spite;
 and at length wicked thoughts came into his head, and he resolved to
-kill his brother.",2,1,0,wicked kill,kill,,1
+kill his brother.",1,1,0,kill,kill,,1
 2611,"So he hired some villains to murder him; and having shown them where to
 lie in ambush, he went to his brother, and said, ‘Dear brother, I have
 found a hidden treasure; let us go and dig it up, and share it between
@@ -8221,7 +8221,7 @@ came near the edge, she stretched down her hand and wanted to take the
 blue light away from him.",0,0,0,,,,0
 3009,"‘No,’ said he, perceiving her evil intention,
 ‘I will not give you the light until I am standing with both feet upon
-the ground.’",1,0,0,evil,,,1
+the ground.’",0,0,0,,,,0
 3010,"The witch fell into a passion, let him fall again into the
 well, and went away.",0,0,0,,,,0
 3011,"The poor soldier fell without injury on the moist ground, and the blue
@@ -8358,7 +8358,7 @@ fear,’ said the latter to his master.",0,0,0,,,,0
 let them do what they will, only take the blue light with you.’",0,0,0,,,,0
 3064,"Next day
 the soldier was tried, and though he had done nothing wicked, the judge
-condemned him to death.",1,2,0,wicked,condemn death,,1
+condemned him to death.",0,2,0,,condemn death,,1
 3065,"When he was led forth to die, he begged a last
 favour of the king.",0,1,0,,die,,1
 3066,‘What is it?’ asked the king.,0,0,0,,,,0
@@ -9024,7 +9024,7 @@ come back; and had a road made leading up to her palace all of shining
 gold; and told her courtiers that whoever came on horseback, and rode
 straight up to the gate upon it, was her true lover; and that they must
 let him in: but whoever rode on one side of it, they must be sure was
-not the right one; and that they must send him away at once.",1,0,0,eagerly,,,1
+not the right one; and that they must send him away at once.",0,0,0,,,,0
 3301,"The time soon came, when the eldest brother thought that he would make
 haste to go to the princess, and say that he was the one who had set
 her free, and that he should have her for his wife, and the kingdom with
@@ -9064,7 +9064,7 @@ all those wrongs for the love of his father.",0,0,0,,,,0
 3311,"And the old king was very
 angry, and wanted to punish his wicked sons; but they made their escape,
 and got into a ship and sailed away over the wide sea, and where they
-went to nobody knew and nobody cared.",1,1,0,wicked,punish,,1
+went to nobody knew and nobody cared.",0,1,0,,punish,,1
 3312,"And now the old king gathered together his court, and asked all his
 kingdom to come and celebrate the wedding of his son and the princess.",0,0,0,,,,0
 3313,"And young and old, noble and squire, gentle and simple, came at once
@@ -10065,7 +10065,7 @@ ring the bell.",0,0,0,,,,0
 and secretly went there before him; and when the boy was at the top of
 the tower and turned round, and was just going to take hold of the bell
 rope, he saw a white figure standing on the stairs opposite the sounding
-hole.",1,1,0,secretly,rope,,1
+hole.",0,1,0,,rope,,1
 3661,‘Who is there?’,0,0,0,,,,0
 3662,"cried he, but the figure made no reply, and did
 not move or stir.",0,0,0,,,,0
@@ -10108,7 +10108,7 @@ leg.",0,0,0,,,,0
 3679,"The father was
 terrified, and ran thither and scolded the boy.",0,0,0,,,,0
 3680,"‘What wicked tricks
-are these?’ said he.",1,0,0,wicked,,,1
+are these?’ said he.",0,0,0,,,,0
 3681,‘The devil must have put them into your head.’,0,0,0,,,,0
 3682,"‘Father,’ he replied, ‘do listen to me.",0,0,0,,,,0
 3683,I am quite innocent.,0,0,1,,,innocent,1
@@ -10227,7 +10227,7 @@ he who would venture should have his daughter to wife, and she was the
 most beautiful maiden the sun shone on.",0,0,0,,,,0
 3736,"Likewise in the castle lay great
 treasures, which were guarded by evil spirits, and these treasures would
-then be freed, and would make a poor man rich enough.",2,0,0,lie evil,,,1
+then be freed, and would make a poor man rich enough.",1,0,0,lie,,,1
 3737,"Already many men
 had gone into the castle, but as yet none had come out again.",0,0,0,,,,0
 3738,"Then the
@@ -10302,7 +10302,7 @@ in the air, got out and said: ‘Now anyone who likes, may drive,’ and
 lay down by his fire, and slept till it was day.",1,1,0,lie,drive,,1
 3768,"In the morning the king
 came, and when he saw him lying there on the ground, he thought the evil
-spirits had killed him and he was dead.",3,2,0,lie evil kill,kill dead,,1
+spirits had killed him and he was dead.",2,2,0,lie kill,kill dead,,1
 3769,"Then said he: ‘After all it is a
 pity,--for so handsome a man.’",0,0,0,,,,0
 3770,"The youth heard it, got up, and said: ‘It
@@ -11351,7 +11351,7 @@ whole summer.’",0,0,0,,,,0
 4185,"‘Where are you going, then, dear bear?’",0,0,0,,,,0
 4186,asked Snow-white.,0,0,0,,,,0
 4187,"‘I must go into the forest and guard my treasures from the wicked
-dwarfs.",1,0,0,wicked,,,1
+dwarfs.",0,0,0,,,,0
 4188,"In the winter, when the earth is frozen hard, they are obliged
 to stay below and cannot work their way through; but now, when the sun
 has thawed and warmed the earth, they break through it, and come out to
@@ -11383,7 +11383,7 @@ little man?’ asked Rose-red.",0,0,0,,,,0
 4198,"‘You stupid, prying goose!’ answered the
 dwarf: ‘I was going to split the tree to get a little wood for cooking.",0,0,0,,,,0
 4199,"The little bit of food that we people get is immediately burnt up with
-heavy logs; we do not swallow so much as you coarse, greedy folk.",1,1,0,greedy,burn,,1
+heavy logs; we do not swallow so much as you coarse, greedy folk.",0,1,0,,burn,,1
 4200,"I had
 just driven the wedge safely in, and everything was going as I wished;
 but the cursed wedge was too smooth and suddenly sprang out, and the
@@ -11489,10 +11489,10 @@ want with such a slender little fellow as I?",0,0,0,,,,0
 4243,"you would not feel me
 between your teeth.",0,0,0,,,,0
 4244,"Come, take these two wicked girls, they are tender
-morsels for you, fat as young quails; for mercy’s sake eat them!’",2,0,0,wicked eat,,,1
+morsels for you, fat as young quails; for mercy’s sake eat them!’",1,0,0,eat,,,1
 4245,"The
 bear took no heed of his words, but gave the wicked creature a single
-blow with his paw, and he did not move again.",1,0,0,wicked,,,1
+blow with his paw, and he did not move again.",0,0,0,,,,0
 4246,"The girls had run away, but the bear called to them: ‘Snow-white and
 Rose-red, do not be afraid; wait, I will come with you.’",0,0,0,,,,0
 4247,"Then they
@@ -11501,7 +11501,7 @@ his bearskin fell off, and he stood there a handsome man, clothed all in
 gold.",0,0,0,,,,0
 4248,"‘I am a king’s son,’ he said, ‘and I was bewitched by that wicked
 dwarf, who had stolen my treasures; I have had to run about the forest
-as a savage bear until I was freed by his death.",2,1,0,wicked steal,death,,1
+as a savage bear until I was freed by his death.",1,1,0,steal,death,,1
 4249,"Now he has got his
 well-deserved punishment.",0,1,0,,punishment,,1
 4250,"Snow-white was married to him, and Rose-red to his brother, and they

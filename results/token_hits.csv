@@ -27,7 +27,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 80,eat,eat,VERB,verbs,transgression,transgression
 82,lay,lie,VERB,verbs,transgression,transgression
 83,kill,kill,VERB,verbs,both,transgression|punishment
-84,secretly,secretly,ADV,adverbs,transgression,transgression
 84,eat,eat,VERB,verbs,transgression,transgression
 85,seized,seize,VERB,verbs,transgression,transgression
 85,punished,punish,VERB,verbs,punishment,punishment
@@ -140,7 +139,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 348,blessing,blessing,NOUN,nouns,reward,reward
 349,revenge,revenge,NOUN,nouns,punishment,punishment
 350,dead,dead,ADJ,adjectives,punishment,punishment
-351,evil,evil,ADJ,adjectives,transgression,transgression
 351,die,die,VERB,verbs,punishment,punishment
 352,save,save,VERB,verbs,reward,reward
 352,burnt,burn,VERB,verbs,punishment,punishment
@@ -165,7 +163,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 398,drive,drive,VERB,verbs,punishment,punishment
 401,drove,drive,VERB,verbs,punishment,punishment
 401,death,death,NOUN,nouns,punishment,punishment
-402,cruel,cruel,ADJ,adjectives,transgression,transgression
 402,killed,kill,VERB,verbs,both,transgression|punishment
 411,kill,kill,VERB,verbs,both,transgression|punishment
 411,dead,dead,ADJ,adjectives,punishment,punishment
@@ -175,13 +172,11 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 426,forced,force,VERB,verbs,transgression,transgression
 427,ill,ill,ADJ,adjectives,punishment,punishment
 427,dead,dead,ADJ,adjectives,punishment,punishment
-428,wicked,wicked,ADJ,adjectives,transgression,transgression
 428,eating,eat,VERB,verbs,transgression,transgression
 429,eating,eat,VERB,verbs,transgression,transgression
 436,seized,seize,VERB,verbs,transgression,transgression
 440,kill,kill,VERB,verbs,both,transgression|punishment
 441,die,die,VERB,verbs,punishment,punishment
-441,cruel,cruel,ADJ,adjectives,transgression,transgression
 441,death,death,NOUN,nouns,punishment,punishment
 441,eat,eat,VERB,verbs,transgression,transgression
 444,kill,kill,VERB,verbs,both,transgression|punishment
@@ -191,7 +186,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 450,lay,lie,VERB,verbs,transgression,transgression
 459,good,good,ADJ,adjectives,reward,reward
 461,lie,lie,VERB,verbs,transgression,transgression
-461,secretly,secretly,ADV,adverbs,transgression,transgression
 465,happy,happy,ADJ,adjectives,reward,reward
 468,safe,safe,ADJ,adjectives,reward,reward
 478,lay,lie,VERB,verbs,transgression,transgression
@@ -217,7 +211,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 678,eat,eat,VERB,verbs,transgression,transgression
 679,eaten,eat,VERB,verbs,transgression,transgression
 688,eat,eat,VERB,verbs,transgression,transgression
-689,cruel,cruel,ADJ,adjectives,transgression,transgression
 689,marry,marry,VERB,verbs,reward,reward
 690,drove,drive,VERB,verbs,punishment,punishment
 693,suffer,suffer,VERB,verbs,punishment,punishment
@@ -231,7 +224,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 712,devoured,devour,VERB,verbs,transgression,transgression
 713,good,good,ADJ,adjectives,reward,reward
 719,good,good,ADJ,adjectives,reward,reward
-723,greedy,greedy,ADJ,adjectives,transgression,transgression
 724,eaten,eat,VERB,verbs,transgression,transgression
 724,peace,peace,NOUN,nouns,reward,reward
 737,devoured,devour,VERB,verbs,transgression,transgression
@@ -298,7 +290,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 903,die,die,VERB,verbs,punishment,punishment
 904,die,die,VERB,verbs,punishment,punishment
 906,ate,eat,VERB,verbs,transgression,transgression
-906,greedily,greedily,ADV,adverbs,transgression,transgression
 907,good,good,ADJ,adjectives,reward,reward
 907,good,good,ADJ,adjectives,reward,reward
 910,steal,steal,VERB,verbs,transgression,transgression
@@ -313,7 +304,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 938,lay,lie,VERB,verbs,transgression,transgression
 939,grief,grief,NOUN,nouns,punishment,punishment
 940,cast,cast,VERB,verbs,punishment,punishment
-942,wicked,wicked,ADJ,adjectives,transgression,transgression
 946,pain,pain,NOUN,nouns,punishment,punishment
 948,ate,eat,VERB,verbs,transgression,transgression
 948,lament,lament,VERB,verbs,punishment,punishment
@@ -394,7 +384,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 1223,pushed,push,VERB,verbs,transgression,transgression
 1230,good,good,ADJ,adjectives,reward,reward
 1231,lay,lie,VERB,verbs,transgression,transgression
-1232,wicked,wicked,ADJ,adjectives,transgression,transgression
 1232,lay,lie,VERB,verbs,transgression,transgression
 1233,killed,kill,VERB,verbs,both,transgression|punishment
 1233,ate,eat,VERB,verbs,transgression,transgression
@@ -403,7 +392,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 1240,eat,eat,VERB,verbs,transgression,transgression
 1241,weep,weep,VERB,verbs,punishment,punishment
 1241,forced,force,VERB,verbs,transgression,transgression
-1241,wicked,wicked,ADJ,adjectives,transgression,transgression
 1242,best,good,ADJ,adjectives,reward,reward
 1245,seized,seize,VERB,verbs,transgression,transgression
 1247,kill,kill,VERB,verbs,both,transgression|punishment
@@ -440,7 +428,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 1363,ill,ill,ADJ,adjectives,punishment,punishment
 1363,good,good,ADJ,adjectives,reward,reward
 1364,Good,good,ADJ,adjectives,reward,reward
-1366,wicked,wicked,ADJ,adjectives,transgression,transgression
 1367,Good,good,ADJ,adjectives,reward,reward
 1369,sick,sick,ADJ,adjectives,punishment,punishment
 1369,good,good,ADJ,adjectives,reward,reward
@@ -459,7 +446,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 1405,dead,dead,ADJ,adjectives,punishment,punishment
 1407,ate,eat,VERB,verbs,transgression,transgression
 1409,good,good,ADJ,adjectives,reward,reward
-1409,wicked,wicked,ADJ,adjectives,transgression,transgression
 1409,eaten,eat,VERB,verbs,transgression,transgression
 1412,stole,steal,VERB,verbs,transgression,transgression
 1412,steal,steal,VERB,verbs,transgression,transgression
@@ -485,7 +471,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 1483,justice,justice,NOUN,nouns,punishment,punishment
 1483,condemned,condemn,VERB,verbs,punishment,punishment
 1483,death,death,NOUN,nouns,punishment,punishment
-1483,wicked,wicked,ADJ,adjectives,transgression,transgression
 1485,happy,happy,ADJ,adjectives,reward,reward
 1485,happy,happy,ADJ,adjectives,reward,reward
 1486,happy,happy,ADJ,adjectives,reward,reward
@@ -516,7 +501,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 1605,Good,good,ADJ,adjectives,reward,reward
 1605,good,good,ADJ,adjectives,reward,reward
 1605,weeping,weep,VERB,verbs,punishment,punishment
-1612,greedy,greedy,ADJ,adjectives,transgression,transgression
 1613,weep,weep,VERB,verbs,punishment,punishment
 1622,forced,force,VERB,verbs,transgression,transgression
 1622,married,marry,VERB,verbs,reward,reward
@@ -608,7 +592,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 1872,Bless,bless,VERB,verbs,reward,reward
 1878,betray,betray,VERB,verbs,transgression,transgression
 1880,safe,safe,ADJ,adjectives,reward,reward
-1881,wicked,wicked,ADJ,adjectives,transgression,transgression
 1881,good,good,ADJ,adjectives,reward,reward
 1884,death,death,NOUN,nouns,punishment,punishment
 1885,push,push,VERB,verbs,transgression,transgression
@@ -670,7 +653,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 2012,eat,eat,VERB,verbs,transgression,transgression
 2013,dead,dead,ADJ,adjectives,punishment,punishment
 2014,save,save,VERB,verbs,reward,reward
-2015,wicked,wicked,ADJ,adjectives,transgression,transgression
 2015,happy,happy,ADJ,adjectives,reward,reward
 2016,dead,dead,ADJ,adjectives,punishment,punishment
 2017,dead,dead,ADJ,adjectives,punishment,punishment
@@ -689,7 +671,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 2054,innocent,innocent,ADJ,adjectives,reward,reward
 2056,killed,kill,VERB,verbs,both,transgression|punishment
 2056,Lie,lie,VERB,verbs,transgression,transgression
-2057,wicked,wicked,ADJ,adjectives,transgression,transgression
 2058,kill,kill,VERB,verbs,both,transgression|punishment
 2060,eat,eat,VERB,verbs,transgression,transgression
 2060,burning,burn,VERB,verbs,punishment,punishment
@@ -815,7 +796,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 2400,lay,lie,VERB,verbs,transgression,transgression
 2401,gorged,gorge,VERB,verbs,transgression,transgression
 2403,suffered,suffer,VERB,verbs,punishment,punishment
-2406,wicked,wicked,ADJ,adjectives,transgression,transgression
 2413,drowned,drown,VERB,verbs,punishment,punishment
 2414,dead,dead,ADJ,adjectives,punishment,punishment
 2415,dead,dead,ADJ,adjectives,punishment,punishment
@@ -852,7 +832,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 2476,happiness,happiness,NOUN,nouns,reward,reward
 2477,peace,peace,NOUN,nouns,reward,reward
 2477,ate,eat,VERB,verbs,transgression,transgression
-2477,eagerly,eagerly,ADV,adverbs,transgression,transgression
 2477,ill,ill,ADJ,adjectives,punishment,punishment
 2478,weeping,weep,VERB,verbs,punishment,punishment
 2479,die,die,VERB,verbs,punishment,punishment
@@ -862,14 +841,9 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 2481,wept,weep,VERB,verbs,punishment,punishment
 2482,married,marry,VERB,verbs,reward,reward
 2483,blood,blood,NOUN,nouns,punishment,punishment
-2485,evil,evil,ADJ,adjectives,transgression,transgression
 2486,drove,drive,VERB,verbs,punishment,punishment
 2486,peace,peace,NOUN,nouns,reward,reward
-2491,evil,evil,ADJ,adjectives,transgression,transgression
-2493,evil,evil,ADJ,adjectives,transgression,transgression
-2494,wicked,wicked,ADJ,adjectives,transgression,transgression
 2497,kill,kill,VERB,verbs,both,transgression|punishment
-2499,evil,evil,ADJ,adjectives,transgression,transgression
 2503,bound,bind,VERB,verbs,punishment,punishment
 2508,wept,weep,VERB,verbs,punishment,punishment
 2508,wept,weep,VERB,verbs,punishment,punishment
@@ -921,7 +895,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 2600,good,good,ADJ,adjectives,reward,reward
 2607,good,good,ADJ,adjectives,reward,reward
 2609,forced,force,VERB,verbs,transgression,transgression
-2610,wicked,wicked,ADJ,adjectives,transgression,transgression
 2610,kill,kill,VERB,verbs,both,transgression|punishment
 2611,lie,lie,VERB,verbs,transgression,transgression
 2612,bound,bind,VERB,verbs,punishment,punishment
@@ -1040,7 +1013,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 2990,died,die,VERB,verbs,punishment,punishment
 2995,eat,eat,VERB,verbs,transgression,transgression
 3005,burns,burn,VERB,verbs,punishment,punishment
-3009,evil,evil,ADJ,adjectives,transgression,transgression
 3012,death,death,NOUN,nouns,punishment,punishment
 3018,Good,good,ADJ,adjectives,reward,reward
 3021,bind,bind,VERB,verbs,punishment,punishment
@@ -1049,7 +1021,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 3031,revenge,revenge,NOUN,nouns,punishment,punishment
 3056,prison,prison,NOUN,nouns,punishment,punishment
 3059,lying,lie,VERB,verbs,transgression,transgression
-3064,wicked,wicked,ADJ,adjectives,transgression,transgression
 3064,condemned,condemn,VERB,verbs,punishment,punishment
 3064,death,death,NOUN,nouns,punishment,punishment
 3065,die,die,VERB,verbs,punishment,punishment
@@ -1141,11 +1112,9 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 3297,killed,kill,VERB,verbs,both,transgression|punishment
 3298,peace,peace,NOUN,nouns,reward,reward
 3299,forgive,forgive,VERB,verbs,reward,reward
-3300,eagerly,eagerly,ADV,adverbs,transgression,transgression
 3307,lain,lie,VERB,verbs,transgression,transgression
 3309,forgiven,forgive,VERB,verbs,reward,reward
 3311,punish,punish,VERB,verbs,punishment,punishment
-3311,wicked,wicked,ADJ,adjectives,transgression,transgression
 3315,good,good,ADJ,adjectives,reward,reward
 3319,happy,happy,ADJ,adjectives,reward,reward
 3319,lay,lie,VERB,verbs,transgression,transgression
@@ -1261,13 +1230,11 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 3636,died,die,VERB,verbs,punishment,punishment
 3638,forced,force,VERB,verbs,transgression,transgression
 3650,good,good,ADJ,adjectives,reward,reward
-3660,secretly,secretly,ADV,adverbs,transgression,transgression
 3660,rope,rope,NOUN,nouns,punishment,punishment
 3667,pushed,push,VERB,verbs,transgression,transgression
 3667,lying,lie,VERB,verbs,transgression,transgression
 3675,lying,lie,VERB,verbs,transgression,transgression
 3678,good,good,ADJ,adjectives,reward,reward
-3680,wicked,wicked,ADJ,adjectives,transgression,transgression
 3683,innocent,innocent,ADJ,adjectives,reward,reward
 3693,ashamed,ashamed,ADJ,adjectives,punishment,punishment
 3698,married,marry,VERB,verbs,reward,reward
@@ -1281,7 +1248,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 3730,good,good,ADJ,adjectives,reward,reward
 3731,shame,shame,NOUN,nouns,punishment,punishment
 3736,lay,lie,VERB,verbs,transgression,transgression
-3736,evil,evil,ADJ,adjectives,transgression,transgression
 3755,seized,seize,VERB,verbs,transgression,transgression
 3756,dead,dead,ADJ,adjectives,punishment,punishment
 3758,seized,seize,VERB,verbs,transgression,transgression
@@ -1290,7 +1256,6 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 3767,drive,drive,VERB,verbs,punishment,punishment
 3767,lay,lie,VERB,verbs,transgression,transgression
 3768,lying,lie,VERB,verbs,transgression,transgression
-3768,evil,evil,ADJ,adjectives,transgression,transgression
 3768,killed,kill,VERB,verbs,both,transgression|punishment
 3768,dead,dead,ADJ,adjectives,punishment,punishment
 3786,push,push,VERB,verbs,transgression,transgression
@@ -1387,12 +1352,10 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 4181,dead,dead,ADJ,adjectives,punishment,punishment
 4181,lie,lie,VERB,verbs,transgression,transgression
 4181,safe,safe,ADJ,adjectives,reward,reward
-4187,wicked,wicked,ADJ,adjectives,transgression,transgression
 4188,steal,steal,VERB,verbs,transgression,transgression
 4192,lay,lie,VERB,verbs,transgression,transgression
 4194,rope,rope,NOUN,nouns,punishment,punishment
 4199,burnt,burn,VERB,verbs,punishment,punishment
-4199,greedy,greedy,ADJ,adjectives,transgression,transgression
 4200,driven,drive,VERB,verbs,punishment,punishment
 4200,cursed,cursed,ADJ,adjectives,punishment,punishment
 4217,good,good,ADJ,adjectives,reward,reward
@@ -1402,10 +1365,7 @@ sentence_id,token,lemma,pos,lex_cat,hit_type,hit_labels
 4230,seized,seize,VERB,verbs,transgression,transgression
 4239,cursing,curse,VERB,verbs,punishment,punishment
 4241,lying,lie,VERB,verbs,transgression,transgression
-4244,wicked,wicked,ADJ,adjectives,transgression,transgression
 4244,eat,eat,VERB,verbs,transgression,transgression
-4245,wicked,wicked,ADJ,adjectives,transgression,transgression
-4248,wicked,wicked,ADJ,adjectives,transgression,transgression
 4248,stolen,steal,VERB,verbs,transgression,transgression
 4248,death,death,NOUN,nouns,punishment,punishment
 4249,punishment,punishment,NOUN,nouns,punishment,punishment

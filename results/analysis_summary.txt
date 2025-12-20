@@ -1,10 +1,10 @@
 Grimm lexicon pipeline — analysis summary
 
 Total sentences: 4375
-Sentences with ANY lexicon hit: 1132 (25.9%)
-Sentences with TRANSGRESSION hit: 500 (11.4%)
+Sentences with ANY lexicon hit: 1116 (25.5%)
+Sentences with TRANSGRESSION hit: 475 (10.9%)
 Sentences with PUNISHMENT hit: 454 (10.4%)
-Sentences with BOTH transgression & punishment hits: 118 (2.7%)
+Sentences with BOTH transgression & punishment hits: 112 (2.6%)
 Sentences with REWARD hit: 385 (8.8%)
 Sentences with TRIPLE (transgression+punishment+reward): 15 (0.3%)
 
@@ -14,16 +14,16 @@ Top transgression lemmas (token-level):
   seize        30
   force        30
   steal        21
-  wicked       20
   push         16
   refuse       10
   devour       10
-  evil         8
   poison       5
-  secretly     3
-  cruel        3
-  greedy       3
   deceive      3
+  sin          3
+  betray       3
+  envy         3
+  temptation   2
+  gorge        1
 
 Top punishment lemmas (token-level):
   dead         58
@@ -64,10 +64,10 @@ Overlapping lemmas marked as BOTH (token-level):
   curse        1
 
 Distribution: transgression_hit_count per sentence (count -> #sentences)
-   0 -> 3875
-   1 -> 445
-   2 -> 51
-   3 -> 4
+   0 -> 3900
+   1 -> 434
+   2 -> 38
+   3 -> 3
 
 Distribution: punishment_hit_count per sentence (count -> #sentences)
    0 -> 3921
